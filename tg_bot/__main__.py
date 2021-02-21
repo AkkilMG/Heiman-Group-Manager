@@ -24,12 +24,12 @@ I am a group manager bot maintained by  [this person](tg://user?id={}).
 
 My future updates will be put into This Channel - @Heimansupports & My Support Group @Heimansupport.
 
-This is my [Movies](https://t.me/heimanpictures1),
+This is my [Support Groups R&R](https://telegra.ph/Rules--Regulations-02-20),
 you can create clone same like me..
 
 For more commands click /help...
 
-**Keep in mind that any changes you DO do to the source have to be on github, as per the license.**
+**This Bot was Built By @HeimanPicture @HeimanCreatiin @HeimanCreation @HeimanTGSupport. If any Queries or Bugs Contact Us through @HeimanSupport.**
 
 """
 
