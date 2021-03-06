@@ -24,7 +24,7 @@
       "value": "1478534845"
     },
     "OWNER_USERNAME": {
-      "description": "Your username",
+      "description": "Your username without @",
       "value": "Heimancreation"
     },
     "WEBHOOK": {
