@@ -16,7 +16,7 @@ announcements.
 Alternatively, [find me on telegram](https://t.me/HeimanCreation)! (Keep all support questions in the support chat, where more people can help you.)
 
 ### Demo Bot:
-<a href="https://t.me/HeimanFileStorage_bot"><img src="https://img.shields.io/badge/Demo-Telegram%20Bot-blue.svg?logo=telegram"></a>
+<a href="https://t.me/HeimanTGGroupManager_bot"><img src="https://img.shields.io/badge/Demo-Telegram%20Bot-blue.svg?logo=telegram"></a>
 
 ## You can also tap the Deploy To Heroku button below to deploy straight to Heroku!
 
