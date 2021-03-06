@@ -1,6 +1,6 @@
 
 {
-  "name": "Marie-2.0 English",
+  "name": "Heiman-Group-Manager-2.0v",
   "description": "Telegram's sassiest group manager. Modular Telegram group management bot!",
   "keywords": [
     "telegram",
@@ -9,7 +9,7 @@
     "manager",
     "3"
   ],
-  "repository": "hhttps://github.com/TGExplore/Marie-2.0-English",
+  "repository": "https://github.com/HeimanPictures/Heiman-Group-Manager-2.0v",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable env variables",
