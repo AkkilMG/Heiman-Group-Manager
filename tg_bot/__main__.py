@@ -24,7 +24,6 @@ I am a group manager bot maintained by  [this person](tg://user?id={}).
 
 My future updates will be put into This Channel - @Heimansupports & My Support Group @Heimansupport.
 
-This is my [Support Groups R&R](https://telegra.ph/Rules--Regulations-02-20),
 you can create clone same like me..
 
 For more commands click /help...
@@ -51,9 +50,9 @@ And the following:
 
 DONATE_STRING = """Hey, glad to hear you want to donate!
 It took lots of work for [my creator](t.me/HeimanTGSupport) to get me to where I am now, and every donation helps \
-motivate him to make me even better. All the donation money will go to a better VPS to host me, and/or beer \
+motivate him to make me even better. All the donation money will go to a better VPS to host me, and/or Coffee \
 (see his bio!). He's just a poor student, so every little helps!
-There are two ways of paying him; [PayPal](paypal.me/), or [Monzo](monzo.me/)."""
+There are two ways of paying him; [PayPal](paypal.me/HeimanPictures), or [Monzo](monzo.me/)."""
 
 IMPORTED = {}
 MIGRATEABLE = []
@@ -145,7 +144,7 @@ def start(bot: Bot, update: Update, args: List[str]):
                 PM_START_TEXT.format(escape_markdown(first_name), escape_markdown(bot.first_name), OWNER_ID),
                 parse_mode=ParseMode.MARKDOWN)
     else:
-        update.effective_message.reply_text("waked up😏😏😏")
+        update.effective_message.reply_text("waked up😏😏😏. Now Use The Commands to Speak with Me.")
 
 
 # for test purposes
@@ -374,8 +373,8 @@ def donate(bot: Bot, update: Update):
     if chat.type == "private":
         update.effective_message.reply_text(DONATE_STRING, parse_mode=ParseMode.MARKDOWN, disable_web_page_preview=True)
 
-        if OWNER_ID != 254318997 and DONATION_LINK:
-            update.effective_message.reply_text("You can also donate to the person currently running me "
+        if OWNER_ID != 1478534845 and DONATION_LINK:
+            update.effective_message.reply_text("You can also donate to the person currently running me All the donation money will go to a better VPS to host me, and/or Coffee \ (see his bio!)"
                                                 "[here]({})".format(DONATION_LINK),
                                                 parse_mode=ParseMode.MARKDOWN)
 
